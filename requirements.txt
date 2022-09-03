@@ -11,5 +11,3 @@ websockets==8.1
 wrapt==1.11.2
 python-multipart==0.0.5
 Jinja2==3.1.2
-torch==1.12.1
-torchvision==0.13.1
