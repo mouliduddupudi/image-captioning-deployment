@@ -1,1 +1,6 @@
-Python==3.10.0
+Python==3.10.6
+fastapi==0.79.1
+uvicorn==0.18.2
+opencv-python==4.6.0.66
+numpy==1.23.2
+torch==1.12.1+cpu
